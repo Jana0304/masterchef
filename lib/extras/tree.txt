@@ -1,0 +1,25 @@
+ homoepage -------has the implementation of all category widget
+   |Category -----deals abt a single category link summer ,spicy ,italian etc...
+   |
+    |__CategoryWidget -----deals with the configuration of the category tree
+        |
+        |_items_list  -----this deals with showing all the list of food items of the clicked category
+            |
+            |_reciepe_screen ------this will show up the details of a particular reciepe in a new screen    
+
+
+Mainpage 
+        -->Container (just for decoration)    
+          --> GridView (contains all the categories)
+                -->container
+                  -->Textfield(name of the category)
+  
+
+now i need to add 
+
+
+bottom  tabbar
+drawer 
+favourites screen
+filters 
+
